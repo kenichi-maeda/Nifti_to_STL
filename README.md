@@ -1,4 +1,4 @@
-### How to convert NIfTI to Mesh via STL (also VTK to STL)
+### How to convert NIfTI to Mesh via STL
 
 #### 1. Convert NIfTi to VTK<br>
 Go to https://github.com/neurolabusc/nii2mesh and clone the repo.
@@ -16,6 +16,7 @@ Then,
 Pass  the vtk file to ```convert_VTK_to_Mesh()``` which returns a corresponding mesh.
 
 -------------------
-(Note)<brs>
-```test.ipynb``` viusalizes the mesh.
+##### Note
+1. ```test.ipynb``` viusalizes the mesh.
+2. For VTK to STL conversions, just do Step2.
 
