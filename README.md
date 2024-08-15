@@ -13,9 +13,9 @@ Then,
 ```
 
 #### 2. Convert VTK to STL and Load it
-Pass in the vtk file the convert_VTK_to_Mesh() function which returns a corresponding mesh.
+Pass  the vtk file to ```convert_VTK_to_Mesh()``` which returns a corresponding mesh.
 
 -------------------
 (Note)<brs>
-test.ipynb viusalizes a mesh.
+```test.ipynb``` viusalizes the mesh.
 
