@@ -1,6 +1,6 @@
 ### How to convert NIfTI to Mesh via STL
 
-#### 1. Concert NIfTi to VTK<br>
+#### 1. Convert NIfTi to VTK<br>
 Go to https://github.com/neurolabusc/nii2mesh and clone the repo.
 ```
 git clone https://github.com/neurolabusc/nii2mesh
